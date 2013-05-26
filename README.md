@@ -1,4 +1,0 @@
-battleofasteroth
-================
-
-Jogo
